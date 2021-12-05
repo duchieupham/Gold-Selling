@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="332px" height="384px" viewBox="0 0 332 384" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>􀍤</title>
+    <defs>
+        <linearGradient x1="18.1322863%" y1="25.1105096%" x2="84.0855812%" y2="79.8874703%" id="linearGradient-1">
+            <stop stop-color="#FFCF51" offset="0%"></stop>
+            <stop stop-color="#F0AC9E" offset="17.837764%"></stop>
+            <stop stop-color="#EB96AD" offset="40.463833%"></stop>
+            <stop stop-color="#B69BC6" offset="67.7474869%"></stop>
+            <stop stop-color="#A4A1CB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="SFCompact-Regular, SF Compact" font-size="400" font-weight="normal">
+        <g id="Artboard" transform="translate(-1209.000000, -723.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <text id="􀍤">
+                <tspan x="1162.08984" y="1066">􀍤</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/GoldSelling">
+    <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" name="MSSQLConnection" password="Hieu170997" type="javax.sql.DataSource" url="jdbc:sqlserver://localhost:1433;databaseName=GoldProject" username="sa"/>
+</Context>
